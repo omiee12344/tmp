@@ -1,6 +1,5 @@
 <?php
 
-echo "Hello there Heroku, om here"
+echo "Hello there Heroku, om here!"
 
 ?>
-
